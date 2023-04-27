@@ -1,16 +1,12 @@
-# habibi
+# Voice asistant (HABIBI)
+A Personal Virtual Voice Assistant app using Flutter, ChatGPT, and Dall-E API! This app is equipped with state-of-the-art natural language processing and image generation capabilities, making it highly intelligent and responsive. With just a simple voice command, it can perform various tasks seamlessly.
 
-A new Flutter project.
+By integrating ChatGPT and Dall-E, this app can generate images and understand voice commands like a real-life personal assistant. And with the added REST API and beautiful UI, the app is easy to use and visually appealing.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## working video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
