@@ -6,6 +6,7 @@ By integrating ChatGPT and Dall-E, this app can generate images and understand v
 
 
 ## working video
+https://www.linkedin.com/feed/update/urn:li:activity:7057479152630706177/
 
 
 
